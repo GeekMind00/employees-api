@@ -1,0 +1,2 @@
+class EmployeeUinsController < ApplicationController
+end
